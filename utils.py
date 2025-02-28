@@ -1,11 +1,5 @@
 import time
 import rtmidi
-from pythonosc.udp_client import SimpleUDPClient
-
-ip = "127.0.0.1"
-to_ableton = 11000
-from_ableton = 11001
-client = SimpleUDPClient(ip, to_ableton)
 
 midi_out = rtmidi.MidiOut()
 midi_out.open_port(0)
