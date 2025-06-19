@@ -1,6 +1,6 @@
 ## Controlling Ableton with Python
 
-<video src="static/demo.mp4" controls="controls" style="max-width: 720px;">
-</video>
+https://github.com/user-attachments/assets/5ee510b7-97d1-44ef-a07c-8264167e5595
+
 
 Blog: https://sangarshanan.com/2025/02/25/connecting-python-with-ableton/
